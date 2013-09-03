@@ -139,3 +139,6 @@ alias subl="open -a /Applications/Sublime\ Text.app/"
 
 # PHP 5.4 - allows me to run a server with -S localhost:80 params
 alias php54="sudo /usr/local/bin/php"
+
+# Visual git diff using opendiff on OSX (filemerge)
+alias gitopendiff="git difftool -t opendiff -y"
