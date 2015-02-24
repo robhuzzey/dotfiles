@@ -36,9 +36,9 @@ brew install php54
 brew install ack
 #brew install exiv2
 brew install git
+brew install ruby
 #brew install imagemagick
 brew install lynx
-brew install node
 brew install pigz
 brew install rename
 brew install rhino
